@@ -1,4 +1,4 @@
 # Kombi3D
 A Processing project produced in Graphic Computation Class at the Federal University of Espírito Santo
 
-![alt text](https://github.com/Lasanhaplays/Kombi3D/blob/main/Kombi2D.png?raw=true)
+![alt text](https://github.com/LazaroJPR/Processing/blob/main/Kombi%20Project/Kombi3D/Kombi2D.png?raw=true)
